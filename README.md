@@ -1,2 +1,3 @@
-# csharp9-demos
-Demo applications using C# 9
+# C# 9 Demo Applications
+
+This repository contains some demo applications using features from C# 9
